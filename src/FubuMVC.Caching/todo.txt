@@ -1,0 +1,10 @@
+﻿
+
+- Define API for ICache.
+- Determine if ICacheSignal approach is useful.
+- Determine which chains should be configured.
+
+- Vary By ?
+- Resource Hash does not take headers into account, problem?
+
+- Ask JDM for his opinion.

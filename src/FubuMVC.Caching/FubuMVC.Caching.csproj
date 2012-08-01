@@ -68,6 +68,9 @@
       <Link>Properties\CommonAssemblyInfo.cs</Link>
     </Compile>
     <Compile Include="CacheExtension.cs" />
+    <Compile Include="CachingConfiguration.cs" />
+    <Compile Include="DefaultCache.cs" />
+    <Compile Include="ICache.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
