@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FubuMVC.Caching", "FubuMVC.Caching\FubuMVC.Caching.csproj", "{EDC563AF-36F6-446E-9DF2-E7CF8AEF6FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FubuMVC.Caching.Tests", "FubuMVC.Caching.Tests\FubuMVC.Caching.Tests.csproj", "{66E7B826-0E6E-472A-B86B-CCBC7EB4A254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC563AF-36F6-446E-9DF2-E7CF8AEF6FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC563AF-36F6-446E-9DF2-E7CF8AEF6FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC563AF-36F6-446E-9DF2-E7CF8AEF6FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC563AF-36F6-446E-9DF2-E7CF8AEF6FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E7B826-0E6E-472A-B86B-CCBC7EB4A254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E7B826-0E6E-472A-B86B-CCBC7EB4A254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E7B826-0E6E-472A-B86B-CCBC7EB4A254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E7B826-0E6E-472A-B86B-CCBC7EB4A254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
