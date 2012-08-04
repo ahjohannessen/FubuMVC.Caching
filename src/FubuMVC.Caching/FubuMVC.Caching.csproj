@@ -69,8 +69,10 @@
     </Compile>
     <Compile Include="CacheExtension.cs" />
     <Compile Include="CachingConfiguration.cs" />
-    <Compile Include="DefaultCache.cs" />
-    <Compile Include="ICache.cs" />
+    <Compile Include="IContentCache.cs" />
+    <Compile Include="IResourceHash.cs" />
+    <Compile Include="OutputCacheNode.cs" />
+    <Compile Include="OutputCachingBehavior.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -6,11 +6,7 @@ namespace FubuMVC.Caching
     {
         public void Configure(FubuRegistry registry)
         {
-            registry.Policies.Add<CachingConfiguration>();
-            registry.Services(services =>
-            {
-                services.SetServiceIfNone<ICache, DefaultCache>();
-            });
+            
         }
     }
 }
